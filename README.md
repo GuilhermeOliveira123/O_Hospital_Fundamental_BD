@@ -2,8 +2,8 @@
 Uma história para começar
 
 Um pequeno hospital local busca desenvolver um novo sistema que atenda melhor às suas necessidades. Atualmente, parte da operação ainda se apoia em planilhas e arquivos antigos, mas espera-se que esses dados sejam transferidos para o novo sistema assim que ele estiver funcional. Neste momento, é necessário analisar com cuidado as necessidades desse cliente e sugerir uma estrutura de banco de dados adequada por meio de um Diagrama Entidade-Relacionamento.
-![Diagrama Hospital](https://github.com/GuilhermeOliveira123/O_Hospital_Fundamental_BD/assets/105466909/c307d4f7-ba8e-4b39-8d8d-45cf265be9cd)
 
+![Fundamentos](https://github.com/GuilhermeOliveira123/O_Hospital_Fundamental_BD/assets/105466909/9729f168-12a4-468c-beec-22a7c66bee67)
 
 # Mãos a Obra
 Analise a seguinte descrição e extraia dela os requisitos para o banco de dados: O hospital necessita de um sistema para sua área clínica que ajude a controlar consultas realizadas. Os médicos podem ser generalistas, especialistas ou residentes e têm seus dados pessoais cadastrados em planilhas digitais. Cada médico pode ter uma ou mais especialidades, que podem ser pediatria, clínica geral, gastroenterologia e dermatologia. Alguns registros antigos ainda estão em formulário de papel, mas será necessário incluir esses dados no novo sistema.
